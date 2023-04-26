@@ -1,4 +1,4 @@
-// Commentaire de Nicolas 
+// Commentaire Nicolas
 
 package model;
 
